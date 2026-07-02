@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Muhajir Payao
 
-### Full Stack Web Developer • UI/UX Enthusiast • Freelance Developer
+### Full Stack Web Developer • Freelance Developer
 
 Building modern websites and web applications that help businesses grow.
 
 <br>
-<a href="[mjdeev-react.vercel.app](https://mjdev-react.vercel.app/)">
+<a href="https://mjdev-react.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -23,10 +23,10 @@ Building modern websites and web applications that help businesses grow.
 
 Currently building:
 
-- ✈️ TripFlow — AI Travel Planner
 - 🏢 SmartCentria — Smart Business Management System
 - 🌐 Business websites for local companies
 - 🚀 Modern SaaS Smart SupportAI
+- - ✈️ TripFlow — AI Travel Planner
 
 ---
 
