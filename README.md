@@ -99,7 +99,7 @@ Helping coffee shops and local businesses establish an online presence with mode
 ---
 
 # 🎯 Currently Learning
-
+- Game Development
 - AI Integrations
 - Mobile Development
 - System Design
